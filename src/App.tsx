@@ -59,7 +59,7 @@ function App() {
               className="flex justify-center mb-8"
             >
               <img 
-                src="/src/assets/Imagen de WhatsApp 2025-07-27 a las 18.33.47_c285ce83.jpg" 
+                src="/Imagen de WhatsApp 2025-07-27 a las 18.33.47_c285ce83.jpg" 
                 alt="MoneyKA Trading Results" 
                 className="w-80 h-80 object-cover rounded-xl neon-border animate-float" 
               />
@@ -284,7 +284,7 @@ function App() {
               <div className="absolute -inset-4 bg-gradient-to-br from-electric-blue/30 to-neon-green/30 rounded-3xl blur-2xl opacity-0 group-hover:opacity-100 transition-opacity duration-700"></div>
               <div className="relative bg-gradient-to-br from-gray-800/60 to-gray-900/80 backdrop-blur-sm rounded-3xl overflow-hidden border border-gray-700/30 group-hover:border-electric-blue/50 transition-all duration-500">
                 <img 
-                  src="/src/assets/paquetesprecio.jpg"
+                  src="/paquetesprecio.jpg"
                   alt="Paquetes de Precios MoneyKA"
                   className="w-full max-w-4xl h-auto object-contain p-8 group-hover:scale-105 transition-transform duration-700"
                 />
@@ -327,42 +327,42 @@ function App() {
             <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
               {[
                 {
-                  image: "/src/assets/resultado1.jpg",
+                  image: "/resultado1.jpg",
                   title: "💰 Operación Exitosa #1",
                   description: "Evidencia de ganancia consistente en Crash 1000 con gestión de riesgo optimizada.",
                   badge: "✅ Verificado",
                   badgeColor: "bg-neon-green/20 text-neon-green"
                 },
                 {
-                  image: "/src/assets/resultado 2.jpg",
+                  image: "/resultado 2.jpg",
                   title: "📈 Operación Exitosa #2",
                   description: "Resultado comprobado con análisis técnico avanzado y timing perfecto.",
                   badge: "✅ Verificado",
                   badgeColor: "bg-electric-blue/20 text-electric-blue"
                 },
                 {
-                  image: "/src/assets/resultado3.jpg",
+                  image: "/resultado3.jpg",
                   title: "🎯 Operación Exitosa #3",
                   description: "Evidencia de precisión en la entrada y salida del mercado.",
                   badge: "✅ Verificado",
                   badgeColor: "bg-purple-500/20 text-purple-300"
                 },
                 {
-                  image: "/src/assets/resultado45.jpg",
+                  image: "/resultado45.jpg",
                   title: "🚀 Operación Exitosa #4",
                   description: "Demostración de la capacidad de adaptación a diferentes condiciones de mercado.",
                   badge: "✅ Verificado",
                   badgeColor: "bg-neon-green/20 text-neon-green"
                 },
                 {
-                  image: "/src/assets/resultado6.jpg",
+                  image: "/resultado6.jpg",
                   title: "💎 Operación Exitosa #5",
                   description: "Evidencia de gestión inteligente del capital y maximización de ganancias.",
                   badge: "✅ Verificado",
                   badgeColor: "bg-electric-blue/20 text-electric-blue"
                 },
                 {
-                  image: "/src/assets/resultado7.jpg",
+                  image: "/resultado7.jpg",
                   title: "⭐ Operación Exitosa #6",
                   description: "Resultado que demuestra la consistencia y confiabilidad de nuestros algoritmos.",
                   badge: "✅ Verificado",
